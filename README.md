@@ -14,9 +14,6 @@ A modern, responsive landing page built as a Tailwind CSS practice project.
 - Tailwind CSS v3.4.0
 - Vanilla JavaScript
 
-## Live Demo
-[View Live Site](your-github-pages-url)
-
 ## Getting Started
 ```bash
 npm install
